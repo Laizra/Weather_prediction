@@ -11,9 +11,8 @@ The main features of the project include:
 
 ## Dependencies
 * Python 3.10.12
-* Libraries:
-    pandas - Version: 1.5.0
-    scikit-learn - Version: 1.4.2
+* pandas - Version: 1.5.0
+* scikit-learn - Version: 1.4.2
 
 ## Data used
 * Source: https://www.visualcrossing.com/weather-data
