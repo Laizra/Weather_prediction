@@ -29,14 +29,15 @@ List data used:
 
 Some brief instructions on how to install and use the program.
 
+Clone the repository:
+```
+git clone https://github.com/Laizra/Weather_prediction.git
+```
+
 ## Roadmap
 
-Comment if it is complete with no changes expected, otherwise here are some upcoming features / timeframes:
-
-* Feature 1 - timeframe
-* Feature 2 - timeframe
-* Feature 3 - timeframe
+This project is complete with no changes expected.
 
 ## Contact
 
-Your name here
+Sofia G.
