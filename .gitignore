@@ -1,6 +1,3 @@
-# My files and directories
-ghost.py
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
