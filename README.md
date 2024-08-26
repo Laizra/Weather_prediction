@@ -1,6 +1,5 @@
-![Weather Forescasting](Weather_forecasting_Readme_Image.png)
-
 # Weather data analysis and prediction
+![Weather Forescasting](Weather_forecasting_Readme_Image.png)
 
 ## Description
 
