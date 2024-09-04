@@ -13,16 +13,19 @@ The main features of the project include:
 
 ## Dependencies
 * Python 3.10.12
-* ipykernel - Version: 6.29.5
-* pandas - Version: 2.2.2
-* matplotlib - Version: 3.9.2
-* seaborn - Version: 0.13.2
-* statsmodels - Version: 0.14.2
-* scikit-learn - Version: 1.5.1
+* ipykernel 6.29.5
+* pandas 2.2.2
+* matplotlib 3.9.2
+* seaborn 0.13.2
+* statsmodels 0.14.2
+* scikit-learn 1.5.1
 
 **Note**: Ensure to use the specified library versions for compatibility. Users may need to create a virtual environment to avoid conflicts with other packages.
 
 ## Data used
+![Dataset cities](Dataset_cities.png)
+
+This dataset was built by collecting weather data of 9 random major cities of the world; Beijing, Berlin, London, Mexico City, Moscow, Ottawa, Paris, Rome, and Washington DC.
 * Source: https://www.visualcrossing.com/weather-data
 * Dataset: "Weather_data_2023_2024.csv"
 
@@ -43,7 +46,7 @@ pip install -r requirements.txt
 ```
 
 ## Roadmap
-I built this project with the predictive models as are in mind so this project is complete with no expected changes.
+This project is complete with no expected changes.
 
 ## Contact
 Sofia G.
