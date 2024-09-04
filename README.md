@@ -26,9 +26,47 @@ The main features of the project include:
 
 ## Data used
 
+**Data Dictionary**:
 For the dataset we collected weather data of 9 random major cities of the world; Beijing, Berlin, London, Mexico City, Moscow, Ottawa, Paris, Rome, and Washington DC.
 
-![Dataset cities](Dataset_cities.png)
+| Column Name       | Description                                           | Unit            |
+|-------------------|-------------------------------------------------------|-----------------|
+| tempmax           | Maximum temperature recorded                          | °C              |
+| tempmin           | Minimum temperature recorded                          | °C              |
+| temp              | Mean temperature                                      | °C              |
+| feelslikemax      | Maximum "feels like" temperature recorded             | °C              |
+| feelslikemin      | Minimum "feels like" temperature recorded             | °C              |
+| feelslike         | "Feels like" temperature                              | °C              |
+| dew               | Dew point                                             | °C              |
+| humidity          | Relative humidity                                     | %               |
+| precip            | Precipitation amount                                  | mm              |
+| precipprob        | Probability of precipitation                          | %               |
+| precipcover       | Percentage of area covered by precipitation           | %               |
+| snow              | Snowfall amount                                       | cm              |
+| snowdepth         | Depth of snow on the ground                           | cm              |
+| windgust          | Wind gust speed                                       | km/h            |
+| windspeed         | Average wind speed                                    | km/h            |
+| winddir           | Wind direction                                        | degrees         |
+| sealevelpressure  | Atmospheric pressure at sea level                     | mb              |
+| cloudcover        | Percentage of sky covered by clouds                   | %               |
+| visibility        | Visibility distance                                   | km              |
+| sunrise           | Time of sunrise                                       | Time            |
+| sunset            | Time of sunset                                        | Time            |
+| moonphase         | Phase of the moon                                     | -               |
+| conditions        | General weather conditions (e.g., Rain, Clear)        | -               |
+| description       | Text description of weather conditions                | -               |
+| icon              | Weather icon representing conditions                  | -               |
+| stations          | Identifiers of weather stations that provided data    | -               |
+
+#### Notes:
+
+- **Temperature and Dew Point**: Measured in degrees Celsius (°C).
+- **Precipitation and Snow**: Precipitation is measured in millimeters (mm), and snow depth is measured in centimeters (cm).
+- **Wind Speed and Gusts**: Measured in kilometers per hour (km/h).
+- **Visibility**: Measured in kilometers (km).
+- **Atmospheric Pressure**: Measured in millibars (mb).
+- **Sunrise and Sunset**: Represent times of sunrise and sunset, typically in a time format (HH:MM).
+- **Moonphase, Conditions, Description, Icon, and Stations**: These are categorical or descriptive fields that provide context to the weather data but do not have numerical values.
 
 * Source: https://www.visualcrossing.com/weather-data
 * Dataset: "Weather_data_2023_2024.csv"
