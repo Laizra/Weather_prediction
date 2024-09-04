@@ -3,7 +3,7 @@
 
 ## Description
 
-This project uses statistical analysis and machine learning, specifically Ridge Regression to predict short term high and low temperatures based on weather data from May 1, 2023, to July 7, 2024.
+This project aims to predict daily temperature highs and lows for nine major cities using machine learning techniques, specifically Ridge regression. It leverages historical weather data to uncover patterns and factors influencing temperature changes, providing localized forecasts that are essential for various applications, such as agriculture and disaster preparedness.
 
 The main features of the project include:
 
@@ -25,7 +25,7 @@ The main features of the project include:
 
 ## Data used
 
-This dataset was built by collecting weather data of 9 random major cities of the world; Beijing, Berlin, London, Mexico City, Moscow, Ottawa, Paris, Rome, and Washington DC.
+For the dataset we collected weather data of 9 random major cities of the world; Beijing, Berlin, London, Mexico City, Moscow, Ottawa, Paris, Rome, and Washington DC.
 
 ![Dataset cities](Dataset_cities.png)
 
