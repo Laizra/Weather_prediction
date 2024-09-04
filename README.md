@@ -86,7 +86,6 @@ pip install -r requirements.txt
 ```
 
 ## Roadmap
-1. Data
 This project is complete with no expected changes.
 
 ## Contact
