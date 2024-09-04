@@ -29,7 +29,7 @@ The main features of the project include:
 * scikit-learn 1.5.1
 
 > [!NOTE]
-> Ensure to use the specified library versions for compatibility. Users may need to create a virtual environment to avoid conflicts with other packages.
+> Users may need to create a virtual environment to avoid conflicts with other packages.
 
 ## Data Collection Overview
 The dataset contains weather data collected from nine major cities globally: Beijing, Berlin, London, Mexico City, Moscow, Ottawa, Paris, Rome, and Washington DC. This diverse selection provides insights into various climatic conditions across different regions.
@@ -86,6 +86,7 @@ pip install -r requirements.txt
 ```
 
 ## Roadmap
+1. Data
 This project is complete with no expected changes.
 
 ## Contact
