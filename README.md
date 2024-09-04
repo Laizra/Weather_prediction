@@ -25,7 +25,9 @@ The main features of the project include:
 ## Data used
 
 This dataset was built by collecting weather data of 9 random major cities of the world; Beijing, Berlin, London, Mexico City, Moscow, Ottawa, Paris, Rome, and Washington DC.
+
 ![Dataset cities](Dataset_cities.png)
+
 * Source: https://www.visualcrossing.com/weather-data
 * Dataset: "Weather_data_2023_2024.csv"
 
