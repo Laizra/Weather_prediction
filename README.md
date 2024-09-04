@@ -89,4 +89,4 @@ pip install -r requirements.txt
 This project is complete with no expected changes.
 
 ## Contact
-Sofia G.
+Name
