@@ -1,7 +1,13 @@
 # Weather data analysis and prediction
 ![Weather Forescasting](Weather_forecasting_Readme_Image.png)
 
-## Check out thre process [here](https://github.com/Laizra/Weather_prediction/blob/main/main.ipynb)
+![Static Badge](https://img.shields.io/badge/StatisticalAnalysis-blue)
+![Static Badge](https://img.shields.io/badge/MachineLearning-purple)
+![Static Badge](https://img.shields.io/badge/Visualizations-yellow)
+![Static Badge](https://img.shields.io/badge/DataScience-black)
+
+
+### Check out thre process in the [main.ipynb](https://github.com/Laizra/Weather_prediction/blob/main/main.ipynb) file.
 
 ## Description
 
