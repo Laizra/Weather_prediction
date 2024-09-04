@@ -13,14 +13,15 @@ The main features of the project include:
 
 ## Dependencies
 * Python 3.10.12
-* ipykernel 6.29.5
+* ipykernel 6.29.5 (optional)
 * pandas 2.2.2
 * matplotlib 3.9.2
 * seaborn 0.13.2
 * statsmodels 0.14.2
 * scikit-learn 1.5.1
 
-**Note**: Ensure to use the specified library versions for compatibility. Users may need to create a virtual environment to avoid conflicts with other packages.
+> [!NOTE]
+> Ensure to use the specified library versions for compatibility. Users may need to create a virtual environment to avoid conflicts with other packages.
 
 ## Data used
 
