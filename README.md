@@ -14,7 +14,7 @@ The main features of the project include:
 
 ## Dependencies
 * Python 3.10.12
-* ipykernel 6.29.5 (optional)
+* ipykernel 6.29.5
 * pandas 2.2.2
 * matplotlib 3.9.2
 * seaborn 0.13.2
