@@ -1,6 +1,7 @@
 # Weather data analysis and prediction
 ![Weather Forescasting](Weather_forecasting_Readme_Image.png)
 
+To view the process, please open the main.py file.
 ## Description
 
 This project aims to predict daily temperature highs and lows for nine major cities using machine learning, specifically Ridge regression and statistical analysis techniques. It leverages historical weather data to uncover patterns and factors influencing temperature changes, providing localized forecasts that are essential for various applications, such as agriculture and disaster preparedness.
