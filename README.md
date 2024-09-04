@@ -24,10 +24,11 @@ The main features of the project include:
 > [!NOTE]
 > Ensure to use the specified library versions for compatibility. Users may need to create a virtual environment to avoid conflicts with other packages.
 
-## Data used
+## Data Collection Overview
+The dataset contains weather data collected from nine major cities globally: Beijing, Berlin, London, Mexico City, Moscow, Ottawa, Paris, Rome, and Washington DC. This diverse selection provides insights into various climatic conditions across different regions.
 
-**Data Dictionary**:
-For the dataset we collected weather data of 9 random major cities of the world; Beijing, Berlin, London, Mexico City, Moscow, Ottawa, Paris, Rome, and Washington DC.
+**Data Dictionary**
+The following table outlines the columns in the dataset, providing descriptions and units for each variable:
 
 | Column Name       | Description                                           | Unit            |
 |-------------------|-------------------------------------------------------|-----------------|
@@ -57,16 +58,6 @@ For the dataset we collected weather data of 9 random major cities of the world;
 | description       | Text description of weather conditions                | -               |
 | icon              | Weather icon representing conditions                  | -               |
 | stations          | Identifiers of weather stations that provided data    | -               |
-
-#### Notes:
-
-- **Temperature and Dew Point**: Measured in degrees Celsius (°C).
-- **Precipitation and Snow**: Precipitation is measured in millimeters (mm), and snow depth is measured in centimeters (cm).
-- **Wind Speed and Gusts**: Measured in kilometers per hour (km/h).
-- **Visibility**: Measured in kilometers (km).
-- **Atmospheric Pressure**: Measured in millibars (mb).
-- **Sunrise and Sunset**: Represent times of sunrise and sunset, typically in a time format (HH:MM).
-- **Moonphase, Conditions, Description, Icon, and Stations**: These are categorical or descriptive fields that provide context to the weather data but do not have numerical values.
 
 * Source: https://www.visualcrossing.com/weather-data
 * Dataset: "Weather_data_2023_2024.csv"
