@@ -7,7 +7,7 @@
 ![Static Badge](https://img.shields.io/badge/DataScience-black)
 
 
-### Check out thre process in the [main.ipynb](https://github.com/Laizra/Weather_prediction/blob/main/main.ipynb) file.
+### Check out the process in the [main.ipynb](https://github.com/Laizra/Weather_prediction/blob/main/main.ipynb) file.
 
 ## Description
 
