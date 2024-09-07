@@ -1,5 +1,5 @@
 # Weather data analysis and prediction
-![Weather Forescasting](Weather_forecasting_Readme_Image.png)
+![Weather Forescasting](local_images/Weather_forecasting_Readme_Image.png)
 
 ![Static Badge](https://img.shields.io/badge/StatisticalAnalysis-blue)
 ![Static Badge](https://img.shields.io/badge/MachineLearning-purple)
@@ -12,6 +12,8 @@
 ## Description
 
 This project aims to predict daily temperature highs and lows for nine major cities using machine learning, specifically Ridge regression and statistical analysis techniques. It leverages historical weather data to uncover patterns and factors influencing temperature changes, providing localized forecasts that are essential for various applications, such as agriculture and disaster preparedness.
+
+![Smoothed Data](local_images/smooth_data.png)
 
 The main features of the project include:
 
@@ -89,4 +91,4 @@ pip install -r requirements.txt
 This project is complete with no expected changes.
 
 ## Contact
-Name
+Sofia G
