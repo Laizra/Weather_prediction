@@ -71,6 +71,8 @@ The following table outlines the columns in the dataset, providing descriptions 
 * Source: https://www.visualcrossing.com/weather-data
 * Dataset: "Weather_data_2023_2024.csv"
 
+![Feature Trends](local_images/feature_trends.png)
+
 ## Usage instructions
 1. Clone the repository:
 ```
