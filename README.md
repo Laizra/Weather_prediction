@@ -37,6 +37,7 @@ The main features of the project include:
 The dataset contains weather data collected from nine major cities globally: Beijing, Berlin, London, Mexico City, Moscow, Ottawa, Paris, Rome, and Washington DC. This diverse selection provides insights into various climatic conditions across different regions.
 
 **Data Dictionary**
+
 The following table outlines the columns in the dataset, providing descriptions and units for each variable:
 
 | Column Name       | Description                                           | Unit            |
