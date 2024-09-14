@@ -91,7 +91,14 @@ pip install -r requirements.txt
 ```
 
 ## Roadmap
-This project is complete with no expected changes.
+- Real-Time Weather API Integration (e.g., OpenWeatherMap or WeatherAPI) - Expected completion: 1-2 weeks
+(Add API calls to retrieve real-time weather data and automate data collection.)
+
+- Automated Data Pipeline - Expected completion: 2-3 weeks
+(Set up ETL pipeline for extracting, transforming, and loading data to streamline predictions.)
+
+- Model Deployment and Continuous Predictions - Expected completion: 3-4 weeks
+(Deploy ridge regression models to predict high and low temperatures based on real-time inputs.)
 
 ## Contact
 Sofia G
