@@ -11,12 +11,7 @@
 
 ## Description
 
-This project aims to predict daily temperature highs and lows for nine major
-cities using machine learning, specifically Ridge regression and statistical
-analysis techniques. It leverages historical weather data to uncover patterns
-and factors influencing temperature changes, providing localized forecasts that
-are essential for various applications, such as agriculture and disaster
-preparedness.
+The objective of this project is to develop a machine learning model that accurately predicts daily high and low temperatures for nine major cities. Using Ridge regression and statistical analysis, this model identifies and leverages historical weather data patterns to forecast temperature changes. By predicting localized temperatures, this project addresses critical needs in fields like agriculture and disaster preparedness, where accurate and timely forecasts can inform proactive decision-making.
 
 ![Smoothed Data](local_images/smoothed_data.png)
 
